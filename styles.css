@@ -1,9 +1,39 @@
-body {
-  background-color: powderblue;
+h1,h2,h3,h4,h5,h6 {
+  color: black;
 }
-h1 {
-  color: blue;
-}
+
 p {
-  color: red;
+  color: black;
+}
+
+
+
+
+
+header {
+  background-color: #FBBA72;
+}
+
+body {
+  background-color: #CA5310;
+}
+
+
+
+
+
+nav {
+  text-align: center;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  display: flex;
+  overflow: hidden;
+  background-color: #8F250C;
+}
+
+nav ul {
+  list-style-type: circle;
+  justify-content: space-between;
+  color: black;
 }
