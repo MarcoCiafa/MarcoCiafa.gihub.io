@@ -2,8 +2,20 @@ header {
   background-color: #FBBA72;
 }
 
+header h1 {
+  text-align: center
+}
+
+
+
+
+
+
+
+
+
 body {
-  background-color: #CA5310;
+  background-color: lightblue;
 }
 
 
@@ -28,7 +40,6 @@ nav ul {
   justify-content: space-between;
 }
 
-
-/*nav li{
+nav li{
   display: inline;
 }
